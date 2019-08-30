@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/sung/.pyenv/env3.7/bin/python",
+    "python.formatting.provider": "black"
+}
